@@ -1,0 +1,9 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  10 L00 Writing Log Entry
+ZCZC W00  05 L01 Course Registration at OS SCELE page
+ZCZC W00  50 L02 First virtual meeting on ZOOM
+ZCZC W00  10 L03 Resetting password for GitHub account
+ZCZC W00  10 L03 Learning how to make this log inside of a folder in my repository
+
