@@ -2,10 +2,12 @@
 [GitHub](https://github.com/johanessteven19/os202/)
 
 <br>
-# My name is Johanes Steven
+# GitHub Pages - Johanes Steven
 
-## [My Log](TXT/mylog.txt)
+## [Weekly Log](TXT/mylog.txt)
+
 <hr>
-## Operating Systems Weekly Top Ten List
+
+## Operating Systems -  Weekly Top Ten List
 * [Week 00](W00/)
 * [Week 01](W01/)
