@@ -1,4 +1,4 @@
-# Repository maintained by Johanes Steven - johanessteven19
+## Repository maintained by Johanes Steven - johanessteven19
 
 ## [GitHub Pages](https://johanessteven19.github.io/os202/)
 
