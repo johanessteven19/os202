@@ -14,4 +14,11 @@ ZCZC W01 140 L05 Browsing for solutions for problems on forums such as VirtualBo
 ZCZC W01  55 L08 Experimenting with bash, debian Linux, Virtual Box, etc.
 ZCZC W01 120 L11 Doing the first assignment (Creating Debian virtual guest, rsync from badak, etc.)
 ZCZC W01  30 L21 Installing VirtualBox, Debian, etc.
+ZCZC W02  20 L00 Writing Log Entry for Week 2
+ZCZC W02 100 L02 Third virtual meeting on ZOOM
+ZCZC W02  20 L03 Resolving issue with merging on GitHub
+ZCZC W02 220 L05 Searching for fix on gpg key generation on forums
+ZCZC W02  60 L06 Reading OSC10 textbook chapter 16 + chapter 17
+ZCZC W02 120 L12 Doing the second assignments (Week 02 checklist)
+ZCZC W02  20 L21 Resolving issues with VirtualBox (restart VirtualBoxStartup.sh)
 
