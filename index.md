@@ -5,6 +5,7 @@
 # GitHub Pages - Johanes Steven
 ### Weekly reminder to update your log!
 
+<hr>
 ## [Weekly Log](TXT/mylog.txt)<br>
 ## [Weekly Ranks](TXT/myrank.txt)
 
@@ -16,7 +17,7 @@
 * [Week 02](W02/)
 
 <hr>
-## Useful Resources
+## Useful Resources:
 * [OSP4DISS](https://osp4diss.vlsm.org/)
 * [OS-VLSM](https://os.vlsm.org/)
-* [Course GitHub](https://github.com/UI-FASILKOM-OS/SistemOperasi)
+* [Course GitHub Repository](https://github.com/UI-FASILKOM-OS/SistemOperasi)
