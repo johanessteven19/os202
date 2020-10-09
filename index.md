@@ -6,8 +6,9 @@
 ### Weekly reminder to update your log!
 
 <hr>
-## [Weekly Log](TXT/mylog.txt)<br>
-## [Weekly Ranks](TXT/myrank.txt)
+## [Weekly Log](TXT/mylog.txt) &nbsp;&nbsp;&nbsp;&nbsp; [Public Key](TXT/mypubkey.txt)<br>
+## [Weekly Ranks](TXT/myrank.txt) &nbsp;&nbsp;&nbsp;&nbsp; [Script](TXT/myscript.sh)<br>
+## [SHA256SUM](TXT/SHA256SUM) &nbsp;&nbsp;&nbsp;&nbsp; [SHA256SUM.asc](TXT/SHA256SUM.asc)
 
 <hr>
 
