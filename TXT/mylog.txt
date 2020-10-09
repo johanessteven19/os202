@@ -21,4 +21,6 @@ ZCZC W02 220 L05 Searching for fix on gpg key generation on forums
 ZCZC W02  60 L06 Reading OSC10 textbook chapter 16 + chapter 17
 ZCZC W02 120 L12 Doing the second assignments (Week 02 checklist)
 ZCZC W02  20 L21 Resolving issues with VirtualBox (restart VirtualBoxStartup.sh)
+ZCZC W03  20 L00 Writing Log Entry for Week 3
+ZCZC W03 100 L02 Fourth virtual meeting on ZOOM
 
