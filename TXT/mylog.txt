@@ -27,3 +27,9 @@ ZCZC W03  25 L04 Adding decors for GitHub Pages
 ZCZC W03  35 L05 Finding solutions for errors on 'make' command
 ZCZC W03  80 L06 Reading OSC10 textbook chapter 13 + chapter 14 + chapter 15
 ZCZC W03  45 L13 Doing the third assignments listed on Week 03 checklist
+ZCZC W04  20 L00 Writing Log Entry for Week 4
+ZCZC W04 100 L02 Fifth virtual meeting on ZOOM
+ZCZC W04  40 L05 Finding out ways to code in C
+ZCZC W04  40 L06 Reading OSC10 textbook chapter 9
+ZCZC W04 100 L07 Trying out the previous demos
+ZCZC W04  60 L14 Doing the fourth assignment as listed on the Week04 checklist

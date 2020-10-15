@@ -17,6 +17,7 @@
 * [Week 01](W01/)
 * [Week 02](W02/)
 * [Week 03](W03/)
+* [Week 04](W04/)
 <hr>
 ## Useful Resources:
 * [OSP4DISS](https://osp4diss.vlsm.org/)

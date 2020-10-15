@@ -4,6 +4,7 @@
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
+echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"
@@ -21,3 +22,4 @@ gpg --verify $SHA.asc $SHA
 exit 0
 
 # Sat Oct 03 10:48:38 WIB 2020
+# Thu Oct 15 16:26:25 WIB 2020
