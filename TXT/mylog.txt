@@ -33,3 +33,7 @@ ZCZC W04  40 L05 Finding out ways to code in C
 ZCZC W04  40 L06 Reading OSC10 textbook chapter 9
 ZCZC W04 100 L07 Trying out the previous demos
 ZCZC W04  60 L14 Doing the fourth assignment as listed on the Week04 checklist
+ZCZC W05  20 L00 Writing Log Entry for Week 5
+ZCZC W05 100 L02 Sixth virtual meeting on ZOOM
+ZCZC W05  60 L06 Reading OSC10 textbook chapter 10
+ZCZC W05  50 L15 Doing the fifth assignment as listed onthe Week05 checklist
