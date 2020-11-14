@@ -36,4 +36,10 @@ ZCZC W04  60 L14 Doing the fourth assignment as listed on the Week04 checklist
 ZCZC W05  20 L00 Writing Log Entry for Week 5
 ZCZC W05 100 L02 Sixth virtual meeting on ZOOM
 ZCZC W05  60 L06 Reading OSC10 textbook chapter 10
-ZCZC W05  50 L15 Doing the fifth assignment as listed onthe Week05 checklist
+ZCZC W05  50 L15 Doing the fifth assignment as listed on the Week05 checklist
+ZCZC W06  20 L00 Writing Log Entry for Week 6
+ZCZC W06 120 L05 Trying to find out what to do for week 6's assignment
+ZCZC W06  75 L06 Reading online resources regarding processes and threads
+ZCZC W06  75 L06 Reading OSC10 textbook chapter 3 + chapter 4
+ZCZC W06  80 L16 Doing the sixth assignment as listed on the Week06 checklist
+ZCZC W06  50 L25 Reading online resources about C language and trying it out
