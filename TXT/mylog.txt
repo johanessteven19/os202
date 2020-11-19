@@ -43,3 +43,9 @@ ZCZC W06  75 L06 Reading online resources regarding processes and threads
 ZCZC W06  75 L06 Reading OSC10 textbook chapter 3 + chapter 4
 ZCZC W06  80 L16 Doing the sixth assignment as listed on the Week06 checklist
 ZCZC W06  50 L25 Reading online resources about C language and trying it out
+ZCZC W07  20 L00 Writing Log Entry for Week 7
+ZCZC W07 100 L02 Seventh Virtual Meeting on ZOOM
+ZCZC W07  40 L05 Finding out what Week 7's assignment is all about
+ZCZC W07  75 L06 Reading C manuals
+ZCZC W07  50 L17 Doing the seventh assignment as listed on the Week07 checklist
+ZCZC W07  45 L25 Reading up on C language
