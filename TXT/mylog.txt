@@ -49,3 +49,14 @@ ZCZC W07  40 L05 Finding out what Week 7's assignment is all about
 ZCZC W07  75 L06 Reading C manuals
 ZCZC W07  50 L17 Doing the seventh assignment as listed on the Week07 checklist
 ZCZC W07  45 L25 Reading up on C language
+ZCZC W08  20 L00 Writing Log Entry for Week 8
+ZCZC W08 100 L02 Eighth Virtual Meeting on ZOOM
+ZCZC W08  60 L05 Trying to understand the given assignment
+ZCZC W08  50 L06 Reading OSC10 textbook chapter 5
+ZCZC W08  90 L18 Doing the Week 8 assignment as listed on the Week08 slides
+ZCZC W09  20 L00 Writing Log Entry for Week 9
+ZCZC W09  50 L02 Eight Virtual Meeting on ZOOM
+ZCZC W09  45 L05 Trying to understand this week's assignment
+ZCZC W09  80 L06 Reading the Linux From Scratch website's guide
+ZCZC W09 300 L18 Doing chapters 1-6 of LFS
+ZCZC W09  50 L21 Making backups for every chapter just in case
