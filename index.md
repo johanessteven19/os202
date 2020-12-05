@@ -22,7 +22,10 @@
 * [Week 06](W06/)
 * [Week 07](W07/)
 * [Week 08](W08/)
+<<<<<<< HEAD
 * [Week 09](W09/)
+=======
+>>>>>>> 38aec2f1f469542e1281fcf39c9d5b2e62dbd7f6
 
 <hr>
 ## Useful Resources:
