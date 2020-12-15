@@ -55,8 +55,13 @@ ZCZC W08  60 L05 Trying to understand the given assignment
 ZCZC W08  50 L06 Reading OSC10 textbook chapter 5
 ZCZC W08  90 L18 Doing the Week 8 assignment as listed on the Week08 slides
 ZCZC W09  20 L00 Writing Log Entry for Week 9
-ZCZC W09  50 L02 Eight Virtual Meeting on ZOOM
+ZCZC W09  50 L02 Ninth Virtual Meeting on ZOOM
 ZCZC W09  45 L05 Trying to understand this week's assignment
 ZCZC W09  80 L06 Reading the Linux From Scratch website's guide
-ZCZC W09 300 L18 Doing chapters 1-6 of LFS
+ZCZC W09 300 L19 Doing chapters 1-6 of LFS
 ZCZC W09  50 L21 Making backups for every chapter just in case
+ZCZC W10  20 L00 Writing Log Entry for Week 10
+ZCZC W10  50 L02 Tenth Virtual Meeting on ZOOM
+ZCZC W10  60 L06 Trying to understand Linux From Scratch from its website
+ZCZC W10 340 L20 Doing the Week 10 assignments by following the LFS VLSM tutorial
+
